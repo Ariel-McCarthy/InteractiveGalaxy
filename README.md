@@ -6,4 +6,4 @@
 - Click **q** to view upward and **e** to view downward.
 - **w a s d** and the **spacebar** do some cool things, too. 
 
-But, I don't want to spoil everything, so I'll leave you to it. Simply run the .sln file to test drive!
+But, I don't want to spoil everything, so I'll leave you to it. Simply download the project and run the .sln file to test drive!
